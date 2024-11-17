@@ -52,6 +52,9 @@ Welcome to **Pokédex Pro**, the perfect app for Pokémon enthusiasts! Whether y
 <h3>Vedio</h3>
 <img src="GIF_17112024_123554.gif" alt="Pikachu" width="200">
 
+[Watch the Pokémon Demo Video](https://www.youtube.com/watch?v=yMIlrlc_YWM)
+
+
 **Why You'll Love Pokédex Pro**  
 This app combines knowledge, fun, and interactive features in a sleek, user-friendly design. Whether you're a casual fan or a hardcore trainer, Pokédex Pro is your perfect partner for everything Pokémon!
 
