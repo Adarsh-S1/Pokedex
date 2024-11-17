@@ -35,6 +35,7 @@ Welcome to **Pokédex Pro**, the perfect app for Pokémon enthusiasts! Whether y
 <h3>Catalog</h3>
 <div style="display: flex; justify-content: space-around;">
 <img src="Screenshot_20241117-115422.jpg" alt="Pikachu" width="300" height="600">
+ <img src="Screenshot_20241117-115428.jpg" alt="Pikachu" width="300" height="600">
  <img src="Screenshot_20241117-115434.jpg" alt="Pikachu" width="300" height="600">
 
 </div>
