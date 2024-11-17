@@ -21,6 +21,9 @@ Welcome to **Pokédex Pro**, the perfect app for Pokémon enthusiasts! Whether y
    - Tap it to summon a **random Pokémon**, complete with a witty or funny **joke text** tailored to its personality or traits!  
    - Example: "Charizard appeared! Why doesn’t Charizard ever play hide and seek? Because he always *blazes* his trail!"  
 
+<img src="Screenshot_20241117-115343.jpg" alt="Pikachu" width="300" height="600">
+
+
 **Why You'll Love Pokédex Pro**  
 This app combines knowledge, fun, and interactive features in a sleek, user-friendly design. Whether you're a casual fan or a hardcore trainer, Pokédex Pro is your perfect partner for everything Pokémon!
 
