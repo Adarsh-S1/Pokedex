@@ -22,26 +22,31 @@ Welcome to **Pokédex Pro**, the perfect app for Pokémon enthusiasts! Whether y
    - Example: "Charizard appeared! Why doesn’t Charizard ever play hide and seek? Because he always *blazes* his trail!"  
 
 <br><br>
-
+<h3>Splash screen</h3>
 <div style="display: flex; justify-content: space-around;">
 <img src="Screenshot_20241117-115343.jpg" alt="Pikachu" width="300" height="600">
  <img src="Screenshot_20241117-115352.jpg" alt="Pikachu" width="300" height="600">
-  <img src="Screenshot_20241117-115404.jpg" alt="Pikachu" width="300" height="600">
 </div>
 
+<h3>home page</h3>
+  <img src="Screenshot_20241117-115404.jpg" alt="Pikachu" width="300" height="600">
+
 <br><br>
+<h3>Catalog</h3>
 <div style="display: flex; justify-content: space-around;">
 <img src="Screenshot_20241117-115422.jpg" alt="Pikachu" width="300" height="600">
  <img src="Screenshot_20241117-115434.jpg" alt="Pikachu" width="300" height="600">
-  <img src="Screenshot_20241117-115442.jpg" alt="Pikachu" width="300" height="600">
+
 </div>
+<h3>Get help page</h3>
+  <img src="Screenshot_20241117-115442.jpg" alt="Pikachu" width="300" height="600">
 <br><br>
+<h3>Chat bot</h3>
 <div style="display: flex; justify-content: space-around;">
 <img src="Screenshot_20241117-115456.jpg" alt="Pikachu" width="300" height="600">
  <img src="Screenshot_20241117-115508.jpg" alt="Pikachu" width="300" height="600">
   <img src="Screenshot_20241117-115546.jpg" alt="Pikachu" width="300" height="600">
 </div>
-
 
 **Why You'll Love Pokédex Pro**  
 This app combines knowledge, fun, and interactive features in a sleek, user-friendly design. Whether you're a casual fan or a hardcore trainer, Pokédex Pro is your perfect partner for everything Pokémon!
