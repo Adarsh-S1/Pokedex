@@ -4,7 +4,7 @@ import 'home_page/welcome_page.dart';
 
 void main() {
   Gemini.init(
-    apiKey: 'AIzaSyDCClIJRsgqwoNvGYIOaqbPHrZZG-SzgSI',
+    apiKey: 'api-key',
     generationConfig: GenerationConfig(
       temperature: 0.6,
       maxOutputTokens: 150,
